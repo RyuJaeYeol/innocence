@@ -1,1 +1,0 @@
-var adslot=ADSlots=window.ADSlots||[];!function(){"use strict";(window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth)<=820||adslot.push({target:"#sidebar",slots:[{position:"top",type:"adsense",client:"ca-pub-2939435982300342",slot:"9747547687",format:"auto",style:"width:300px; min-height:50px; margin-bottom:40px;"}]})}();
